@@ -1,1 +1,1 @@
-Vsiualizing Statistics of Outbreak in Pakistan 
+Visualizing Statistics of Outbreak in Pakistan 
